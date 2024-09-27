@@ -1,0 +1,15 @@
+{
+  "detail": {
+    "dummy": {
+      "enabled": false,
+      "test": false,
+      "times": ["00:00", "12:00"],
+      "start_url": "https://github.com/GeniusMK2/selenium_spider_framework",
+      "base_save_path": "A:\\"
+    }
+  },
+  "conf": {
+    "pic_path": "A:\\pics",
+    "screenshot_path": "./failed_screenshots"
+  }
+}
